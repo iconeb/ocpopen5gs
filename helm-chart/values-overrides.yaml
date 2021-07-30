@@ -1,0 +1,13 @@
+mongodb:
+  adminPassword: mongo
+  password: mongo
+
+open5gs:
+  logger:
+    level: info
+
+#
+# Change nodePort to a free available
+#
+amf:
+  nodePort: 31412 
